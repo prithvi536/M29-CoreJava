@@ -6,9 +6,11 @@ public class Char {
 		char ch ='a';
 		System.out.println(ch);
 		
+		//assigning number according to ascii table 
 		char ch1 = 65;
 		System.out.println(ch1);
 		
+		//assigning unicode to character
 		char ch2 = '\u00A7';
 		System.out.println(ch2);
 				
