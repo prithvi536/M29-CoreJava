@@ -6,7 +6,8 @@ public class DoWhileLoop {
 		int a=12;
 		do {
 			System.out.println("value of a is: "+a);
-		}while(a<11);
+		}
+		while(a<11);
 
 	}
 

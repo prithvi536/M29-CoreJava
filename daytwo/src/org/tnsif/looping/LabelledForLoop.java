@@ -9,9 +9,11 @@ public class LabelledForLoop {
 				System.out.println();
 				inner:
 					for(int j=1;j<=5;j++) {
-						System.out.print("*");
 						
-					
+						if(j==4)
+							continue;
+						System.out.print(j+" ");
+						
 					}
 			}
 
