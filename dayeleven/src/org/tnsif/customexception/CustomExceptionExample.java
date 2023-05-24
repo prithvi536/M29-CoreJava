@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class CustomExceptionExample {
 
 	public static void main(String[] args) throws LoginCredentials {
+		
 		Scanner s = new Scanner(System.in);
 		String id = s.nextLine();
 		String password = s.nextLine();
