@@ -2,6 +2,7 @@ package org.tnsif.statickeyword;
 
 public class Customer {
 	//private String name;
+	
 	private int custId;
 	private static String companyName;
 	
@@ -12,6 +13,7 @@ public class Customer {
 		//name = "Capgemini";
 		
 		companyName = "Capgemini";
+		
 		
 	}
 	
